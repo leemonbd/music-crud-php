@@ -1,0 +1,25 @@
+
+{
+  "name": "vendor_name/music",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Limon",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    
+  },
+  "require-dev": {
+
+  },
+  "autoload": {
+    "classmap": [],
+    "psr-4": {
+      "app\\": "app/"
+    }
+  }
+}
